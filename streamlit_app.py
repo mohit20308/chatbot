@@ -30,7 +30,7 @@ while True:
     chat_history_ids = model.generate(chat_bot_input_ids, max_length = 1000, pad_token_id = tokenizer.eos_token_id)
 
     message = st.chat_message("assistant")
-    message.markdown(f'{tokenizer.decode(chat_history_ids[:, chat_bot_input_ids.shape[-1]:][0], skip_special_tokens=True), is_user=True}')
+    message.markdown(f'{tokenizer.decode(chat_history_ids[:, chat_bot_input_ids.shape[-1]:][0], skip_special_tokens=True)}')
     st.session_state.messages.append({"assistant": "user", "content": prompt})
     
     dialog_no += 1
