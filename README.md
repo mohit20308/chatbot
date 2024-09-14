@@ -39,7 +39,7 @@ The following images shows the Career options suggested by Cairo based on user i
 - These use NLP and machine learning models to understand the context.
 - These are capable of handling more complex conversations.
 
-**ChatBot_Finetuned.ipynb** 
+**2_ChatBot_Finetuned.ipynb** 
 Here, a microsoft DialoGPT-medium model from HuggingFace is used and it's fine tuned own custom dataset for context specific answers.
 
 
