@@ -40,6 +40,6 @@ The following images shows the Career options suggested by Cairo based on user i
 - These are capable of handling more complex conversations.
 
 **2_ChatBot_Finetuned.ipynb** 
-Here, a microsoft DialoGPT-medium model from HuggingFace is used and it's fine tuned own custom dataset for context specific answers.
+Here, a microsoft DialoGPT-medium model from HuggingFace is used and it's fine tuned on custom dataset for context specific answers.
 
 
