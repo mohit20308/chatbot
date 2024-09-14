@@ -56,5 +56,8 @@ Streamlit is used to create UI.
 app.py file can be run as:  
    streamlit run app.py
 
+## **References**
 
-
+1. <https://huggingface.co/microsoft/DialoGPT-medium/>
+2. <https://docs.streamlit.io/>
+3. <https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot> 
