@@ -18,22 +18,18 @@ The following images shows the Career options suggested by Cairo based on user i
 
 **(i)** BOT suggests Product based companies
 
-![](/README_images/1_image_job_p_p.PNG)
+<kbd>![](/README_images/1_image_job_p_p.PNG)</kbd>
 
 **(ii)** BOT suggests exams for Government job
 
-![](/README_images/2_image_job_govt.PNG)
-<img src="/README_images/2_image_job_govt.PNG" style="border: 2px solid grey;">
-
 <kbd>![](/README_images/2_image_job_govt.PNG)</kbd>
-
 
 **(iii)** BOT suggests tech giants for Game Devoper position
 
-![](/README_images/3_image_job_p_service.PNG)
+<kbd>![](/README_images/3_image_job_p_service.PNG)</kbd>
 
 **(iv)** BOT suggests entrance exam for MBA
 
-![](/README_images/4_image_higher.PNG)
+<kbd>![](/README_images/4_image_higher.PNG)</kbd>
 
 
