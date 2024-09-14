@@ -23,7 +23,10 @@ The following images shows the Career options suggested by Cairo based on user i
 **(ii)** BOT suggests exams for Government job
 
 ![](/README_images/2_image_job_govt.PNG)
-<img src = "/README_images/2_image_job_govt.PNG" style="border: 2px solid black;">
+<img src="/README_images/2_image_job_govt.PNG" style="border: 2px solid black;">
+
+<kbd>![](/README_images/2_image_job_govt.PNG)</kbd>
+
 
 **(iii)** BOT suggests tech giants for Game Devoper position
 
