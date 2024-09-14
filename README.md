@@ -42,4 +42,18 @@ The following images shows the Career options suggested by Cairo based on user i
 **2_ChatBot_Finetuned.ipynb** 
 Here, a microsoft DialoGPT-medium model from HuggingFace is used and it's fine tuned on custom dataset for context specific answers.
 
+The following example shows the BOT response when it's not fine tuned on custom dataset
+
+<kbd>![](/README_images/q2_non_context.PNG)</kbd>
+
+Now one can notice the change, here the fine tuned model is used for response for same question. It gives context-specific answers.
+
+<kbd>![](/README_images/q2_context.PNG)</kbd>
+
+## Web App
+
+Streamlit is used to create UI. app.py file can be run as:
+  streamlit run app.py
+
+
 
