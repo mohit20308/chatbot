@@ -52,8 +52,9 @@ Now one can notice the change, here the fine tuned model is used for response fo
 
 ## Web App
 
-Streamlit is used to create UI. app.py file can be run as:
-  streamlit run app.py
+Streamlit is used to create UI.  
+app.py file can be run as:  
+   streamlit run app.py
 
 
 
